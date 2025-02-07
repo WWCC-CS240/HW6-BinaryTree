@@ -1,0 +1,19 @@
+{
+  "name": "cs240_hw5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha tests --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "lodash": "^4.17.21",
+    "mocha": "5.2.0",
+    "nyc": "^17.1.0",
+    "sinon": "7.2.2",
+    "sinon-chai": "3.3.0"
+  }
+}
